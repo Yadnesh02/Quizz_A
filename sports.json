@@ -1,0 +1,41 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What team did England beat to win in the 1966 World Cup final?",
+            "correct_answer": "West Germany",
+            "incorrect_answers": [
+                "Soviet Union",
+                "Portugal",
+                "Brazil"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+            "correct_answer": "Roger Federer",
+            "incorrect_answers": [
+                "Bill Tilden",
+                "Boris Becker",
+                "Pete Sampras"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the UEFA Champions League in 2017?",
+            "correct_answer": "Real Madrid C.F.",
+            "incorrect_answers": [
+                "Atletico Madrid",
+                "AS Monaco FC",
+                "Juventus F.C."
+            ]
+        }
+    ]
+}
